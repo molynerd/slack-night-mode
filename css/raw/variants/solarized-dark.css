@@ -876,7 +876,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-search_autocomplete__suggestion_item--selected { background-color: #002b36; }
 
-.c-search_autocomplete__suggestion_item .token { background-color: #222222; color: #a1adad; }
+.c-search_autocomplete__suggestion_item .token { background-color: #0a0a0a; color: #a1adad; }
 
 .c-search__input_and_close { border-bottom-color: #00171d; }
 
@@ -2395,9 +2395,9 @@ span.match { background: rgba(220, 50, 47, 0.25); }
 
 #convo_tab .message_input, #convo_tab textarea#msg_text { color: #a1adad; }
 
-ts-message.message:hover, ts-message.message:active, ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator) { background-color: #222222; }
+ts-message.message:hover, ts-message.message:active, ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator), ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply):not(.show_broadcast_indicator) { background-color: #0a0a0a; }
 
-ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_container:hover { background-color: #222222; }
+ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_container:hover { background-color: #0a0a0a; }
 
 #whats_new_tab p { color: #a1adad; }
 
@@ -2679,7 +2679,7 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #b5
 
 .c-dialog__header .c-dialog__close:hover { color: #268bd2; }
 
-.c-dialog__body { background: #222222; }
+.c-dialog__body { background: #0a0a0a; }
 
 .c-dialog__body .p-share_dialog_message_input { background-color: #00171d; border-color: #00232c; color: #a1adad; }
 
@@ -2693,7 +2693,7 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #b5
 
 .c-dialog__body input.c-input_text:focus { border-color: #003340; box-shadow: unset; }
 
-.c-dialog__footer { background: #222222; }
+.c-dialog__footer { background: #0a0a0a; }
 
 .c-dialog__footer .c-button { background-color: #003340; color: #a1adad; }
 
